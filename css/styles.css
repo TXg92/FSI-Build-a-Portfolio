@@ -1,5 +1,5 @@
 body {
-  background: olive;
+  background: rgb(206, 206, 205);
 }
 h1 {
   color: bisque;
@@ -13,6 +13,6 @@ h1 {
   border: 2px solid black;
 }
 
-.some-div {
-  color: "olive";
+#my-name {
+  color: blue;
 }
